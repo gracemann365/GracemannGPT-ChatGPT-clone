@@ -3,7 +3,7 @@ import openai
 import gradio as gr
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 start_sequence = "\nChatbot:"
 restart_sequence = "\nHuman: "
